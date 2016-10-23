@@ -1,20 +1,20 @@
 {
-  "name": "electron-quick-start",
-  "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "name": "electron-app-bootstrap",
+  "version": "0.9.0",
+  "description": "A base electron application to get things started.",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
-  "repository": "https://github.com/electron/electron-quick-start",
+  "repository": "https://github.com/dataguy/electron-app-bootstrap",
   "keywords": [
     "Electron",
+    "bootstrap",
+    "dataguy",
     "quick",
-    "start",
-    "tutorial",
-    "demo"
+    "start"
   ],
-  "author": "GitHub",
+  "author": "Dataguy",
   "license": "CC0-1.0",
   "devDependencies": {
     "electron": "^1.4.1"
