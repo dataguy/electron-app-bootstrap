@@ -6,6 +6,7 @@
   "scripts": {
     "start": "electron ."
   },
+  "type" : "git",
   "repository": "https://github.com/dataguy/electron-app-bootstrap",
   "keywords": [
     "Electron",
@@ -16,7 +17,10 @@
   ],
   "author": "Dataguy",
   "license": "CC0-1.0",
-  "devDependencies": {
-    "electron": "^1.4.1"
+  "dependencies": {
+    "electron": "^1.4.1",
+    "jQuery": "^1.7.2",
+    "materialize-css": "^0.97.7",
+    "material-design-icons": "^3.0.0"
   }
 }
